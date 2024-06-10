@@ -15,4 +15,4 @@ Even if the program is restarted, my project stores previous responses.
 While sitting at my study table, pondering over my final project, my eyes wandered to my personal daily diary, nestled amidst a pile of books. In that moment, inspiration struck. I realized that this diary, a simple yet essential part to record my daily emotions, could be transformed into a unique coding project. With excitement, I knew I had found the perfect idea to bring to life.
 
 **Instructions:**
-Ensure to download both the files and enjoy the program locally!
+Ensure to download both the files (project.py & diary.txt) and enjoy the program locally!
